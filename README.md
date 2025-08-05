@@ -113,6 +113,9 @@ Recommendations
 6. Audit Hospital Resource Allocation
 -	Given New York’s higher treatment cost, conduct internal audits to assess efficiency and value delivery.
 
+# Back to Top
+[Table of Content](Table-of-Content)
+
 
 
 
