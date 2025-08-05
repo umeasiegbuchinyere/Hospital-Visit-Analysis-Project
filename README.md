@@ -45,6 +45,9 @@ The following Pivot Chart were drew from the data
 -	Gender and Ethnicity vs Diagnosis
 
 # Visualisations
+A comprehensive dashboard was developed by assembling the pivot charts to allow for interactive insights into health.
+
+Slicer Application: Slicers were added via Insert > Slicer, allowing dynamic filtering by fields such as 
 
 <img width="536" height="707" alt="hospital snip" src="https://github.com/user-attachments/assets/1dbd5553-aa22-4784-a633-028ae0809497" />
 
