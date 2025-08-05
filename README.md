@@ -91,6 +91,7 @@ location also significantly impact treatment expenses.
 # Conclusion and Recommendations
 
 Conclusion
+
 The analysis of hospital patient data reveals clear patterns in healthcare outcomes and costs. Diagnoses such as GERD and Type 2 Diabetes are associated with higher mortality 
 and treatment costs, while Hypertension, though common, shows better outcomes. Emergency and referral admissions carry higher risks compared to scheduled visits, indicating the
 value of early detection and planned care. Treatment costs also vary by hospital location and insurance type, with public insurance patients incurring higher average costs, 
